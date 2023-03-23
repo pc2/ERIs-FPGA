@@ -1,4 +1,4 @@
-# Computing and Compressing Electron Repulsion Integrals on FPGAs
+# Source Code for Computing and Compressing Electron Repulsion Integrals on FPGAs
 
 This repository contains the FPGA kernels for computing and compressing electron repulsion integrals, citation:
 
